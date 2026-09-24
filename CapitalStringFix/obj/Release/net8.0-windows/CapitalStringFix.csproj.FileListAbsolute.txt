@@ -1,0 +1,14 @@
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\bin\Release\net8.0-windows\CapitalStringFix.exe
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\bin\Release\net8.0-windows\CapitalStringFix.deps.json
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\bin\Release\net8.0-windows\CapitalStringFix.runtimeconfig.json
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\bin\Release\net8.0-windows\CapitalStringFix.dll
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\bin\Release\net8.0-windows\CapitalStringFix.pdb
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\obj\Release\net8.0-windows\CapitalStringFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\obj\Release\net8.0-windows\CapitalStringFix.AssemblyInfoInputs.cache
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\obj\Release\net8.0-windows\CapitalStringFix.AssemblyInfo.cs
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\obj\Release\net8.0-windows\CapitalStringFix.csproj.CoreCompileInputs.cache
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\obj\Release\net8.0-windows\CapitalStringFix.dll
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\obj\Release\net8.0-windows\refint\CapitalStringFix.dll
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\obj\Release\net8.0-windows\CapitalStringFix.pdb
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\obj\Release\net8.0-windows\CapitalStringFix.genruntimeconfig.cache
+C:\Users\Darren\source\repos\CapitalStringFix\CapitalStringFix\obj\Release\net8.0-windows\ref\CapitalStringFix.dll
